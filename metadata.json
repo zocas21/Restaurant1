@@ -1,0 +1,6 @@
+{
+  "name": "Ethiopia Best Restaurants Explorer",
+  "description": "A premium, responsive restaurant discovery platform for Ethiopia and Addis Ababa featuring AI-powered smart recommendations, search, and maps integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
